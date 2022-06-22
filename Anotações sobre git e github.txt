@@ -1,0 +1,33 @@
+     Git e Github
+
+Git: sistema de versionamento de códigos
+Github: plataforma de armazenamento/repositório de códigos
+
+Alguns comandos no Git:
+
+-cmd
+-dir
+-cd
+-cd..
+-cls
+-mkdir
+-mv
+
+Alguns conceitos do Git:
+
+-Sha1: algoritmo de criptação
+-Objetos internos do Git: blobs, trees e commits
+-Chave SSH: forma de estabelecer segura e encriptada entre duas máquinas
+-Token de acesso pessoal
+-Tracked e Untracked
+
+Outros comandos do Git:
+
+-Git init: cria um novo repositório
+-Git add: inclusão ou modificação do arquivo no diretório local
+-Git status: verifica o status dos arquivos
+-Git clone: clona todos os arquivos do repositório remoto para o repositório local
+-Git commit: modificação dos arquivos no repositório
+  flag: -m: adiciona mensagem para o commit
+-Git push: envia o conteúdo do repositório local para o repositório remoto (transfere commits)
+ 
